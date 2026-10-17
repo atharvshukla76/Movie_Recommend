@@ -11,13 +11,15 @@
 
 **An intelligent, multi-tier cinematic movie recommender combining item-based collaborative filtering, cosine similarity, mood matching, and an immersive dark-mode UI.**
 
-[Live Demo](#quick-start) • [Key Features](#-key-features) • [Algorithm & Math](#-recommendation-methodology) • [Installation](#-installation--setup) • [Project Structure](#-project-structure)
+[<u><font color="#0969da"><b>🌐 Live Demo</b></font></u>](https://movierecommend-g4ii2wahfhdub3cp6ih5ql.streamlit.app/) • [Key Features](#-key-features) • [Algorithm & Math](#-recommendation-methodology) • [Installation](#-installation--setup) • [Project Structure](#-project-structure)
 
 </div>
 
 ---
 
 ## 📌 Overview
+
+> 🚀 **Live Demo:** Experience the deployed application live at: [<u><font color="#0969da"><b>https://movierecommend-g4ii2wahfhdub3cp6ih5ql.streamlit.app/</b></font></u>](https://movierecommend-g4ii2wahfhdub3cp6ih5ql.streamlit.app/)
 
 **CineMind** is an end-to-end movie recommendation web application built to eliminate decision fatigue in digital streaming. Powered by the **MovieLens 100K dataset** (1,682 films, 943 users, and 100,000 ratings), CineMind combines **Item-Based Collaborative Filtering**, **Cosine Item Similarity**, and a **Smart Hybrid Fusion Algorithm** to generate real-time (<10ms) personalized recommendations.
 
